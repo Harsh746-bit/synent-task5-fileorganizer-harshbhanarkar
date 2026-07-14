@@ -2,6 +2,10 @@
 
 A Python-based Command-Line Interface (CLI) application that automatically organizes files into categorized folders based on their file extensions.
 
+## 🎥 Demo Video
+
+[]([https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)]
+
 ## Features
 
 - Automatically organizes files by category

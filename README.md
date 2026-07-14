@@ -4,8 +4,10 @@ A Python-based Command-Line Interface (CLI) application that automatically organ
 
 ## 🎥 Demo Video
 
-[]([https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)]
+## 🎥 Demo Video
 
+[![Watch the Demo][(https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+](https://youtu.be/DRqx8gQc2g4)
 ## Features
 
 - Automatically organizes files by category
